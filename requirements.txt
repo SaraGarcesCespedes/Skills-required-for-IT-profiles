@@ -1,0 +1,14 @@
+pandas
+nltk
+regex
+spacy
+numpy
+textblob
+requests
+beautifulsoup4
+scrapy
+selenium
+requests_html
+scrapy-splash
+pyinstaller
+webdriver-manager
